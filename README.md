@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack projects.<br>👯 I’m looking to collaborate on open source.<br>🌱 I’m currently learning web development.<br>💬 Ask me about web development and UI designing.<br>⚡ Fun fact - F.R.I.E.N.D.S lover.
+🔭 I’m currently working on full stack projects.<br>👯 I’m looking to collaborate on open source.<br>🌱 I’m currently learning blockchain development.<br>💬 Ask me about web development and UI designing.<br>⚡ Fun fact - F.R.I.E.N.D.S lover.
 
 
 ## 🌐 Socials:
